@@ -1,0 +1,6 @@
+.vscode
+.pylintrc
+generate.py
+orig.csv
+script.spec
+ssl.xlsx
