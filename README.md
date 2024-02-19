@@ -21,4 +21,4 @@ python3 script.py sample.xlsx
 ```
 
 # Author
-  [Chris Yang](https://chrisyang.io) (EIS Systems Analyst, Cedars-Sinai)
+  [Chris Yang](https://chrisyang.io)
